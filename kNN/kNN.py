@@ -1,8 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# @Time    : 2019/7/27 上午 10:37
-# @Author  : YuXin Chen
-
 from numpy import *
 import operator
 import matplotlib.pyplot as plt
